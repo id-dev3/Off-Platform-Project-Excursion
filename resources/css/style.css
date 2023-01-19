@@ -1,0 +1,63 @@
+* {
+    background-color: black;
+    text-align: center;
+}
+
+/* HEADER SECTION */
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+}
+
+.first-link {
+    margin-top: 100px;
+}
+
+/* MAIN SECTION */
+
+video {
+    margin-top: 40px;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+}
+
+/* FOOTER SECTION */
+.phone {
+    margin-top: 40px;
+}
+
+h3 {
+    color: white;
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.excursion {
+    color: white;
+    font-family: Verdana;
+    color: gray;
+    text-align: right;
+}
